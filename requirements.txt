@@ -1,0 +1,12 @@
+asgiref==3.9.1
+Django==5.2.5
+django-jalali==7.4.0
+freezegun==1.2.1
+jalali==1.2
+jalali_core==1.0.0
+jdatetime==5.2.0
+psycopg2==2.9.10
+python-dateutil==2.8.2
+pytz==2022.1
+six==1.16.0
+sqlparse==0.5.3
